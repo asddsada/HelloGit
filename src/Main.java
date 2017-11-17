@@ -7,7 +7,7 @@ public class Main {
 		System.out.println("I am "+name);
 	}
 	
-	
+	//fjdjflsdjfd
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
